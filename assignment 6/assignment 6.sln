@@ -10,14 +10,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assignment 6", "assignment 6\assignment 6\assignment 6.csproj", "{A99B6B20-4434-4582-94A9-9F7EE9F7BE5A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{885C90C5-C1F5-486D-B479-FC8F705906C8}"
-	ProjectSection(SolutionItems) = preProject
-		Bank.cs = Bank.cs
-		BankAccount.cs = BankAccount.cs
-		Credentials.cs = Credentials.cs
-		Customer.cs = Customer.cs
-		Program.cs = Program.cs
-		Transaction.cs = Transaction.cs
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
