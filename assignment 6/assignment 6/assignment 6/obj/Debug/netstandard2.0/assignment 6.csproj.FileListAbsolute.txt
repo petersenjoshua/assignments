@@ -1,0 +1,13 @@
+C:\Users\joshua petersen\source\repos\assignments\assignment 6\assignment 6\assignment 6\bin\Debug\netstandard2.0\assignment 6.deps.json
+C:\Users\joshua petersen\source\repos\assignments\assignment 6\assignment 6\assignment 6\bin\Debug\netstandard2.0\assignment 6.dll
+C:\Users\joshua petersen\source\repos\assignments\assignment 6\assignment 6\assignment 6\bin\Debug\netstandard2.0\ref\assignment 6.dll
+C:\Users\joshua petersen\source\repos\assignments\assignment 6\assignment 6\assignment 6\bin\Debug\netstandard2.0\assignment 6.pdb
+C:\Users\joshua petersen\source\repos\assignments\assignment 6\assignment 6\assignment 6\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\joshua petersen\source\repos\assignments\assignment 6\assignment 6\assignment 6\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\joshua petersen\source\repos\assignments\assignment 6\assignment 6\assignment 6\obj\Debug\netstandard2.0\assignment 6.AssemblyInfoInputs.cache
+C:\Users\joshua petersen\source\repos\assignments\assignment 6\assignment 6\assignment 6\obj\Debug\netstandard2.0\assignment 6.AssemblyInfo.cs
+C:\Users\joshua petersen\source\repos\assignments\assignment 6\assignment 6\assignment 6\obj\Debug\netstandard2.0\assignment 6.csproj.CoreCompileInputs.cache
+C:\Users\joshua petersen\source\repos\assignments\assignment 6\assignment 6\assignment 6\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\joshua petersen\source\repos\assignments\assignment 6\assignment 6\assignment 6\obj\Debug\netstandard2.0\assignment 6.dll
+C:\Users\joshua petersen\source\repos\assignments\assignment 6\assignment 6\assignment 6\obj\Debug\netstandard2.0\ref\assignment 6.dll
+C:\Users\joshua petersen\source\repos\assignments\assignment 6\assignment 6\assignment 6\obj\Debug\netstandard2.0\assignment 6.pdb

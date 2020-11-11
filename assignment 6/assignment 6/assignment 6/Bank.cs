@@ -4,6 +4,8 @@ namespace Banking
 {
     public class Bank
     {
+        private string v;
+
         public string BankName { get; set; }
         public int BranchCode { get; set; }
         public string BranchName { get; set; }
@@ -17,6 +19,11 @@ namespace Banking
             BranchName = branchName; 
 
             BankingCustomers = new List<Customer>();   
+        }
+
+        public Bank(string v)
+        {
+            this.v = v;
         }
 
         public void AddCustomer(Customer customer)
