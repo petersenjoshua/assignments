@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fsc77D8FaF6x6A2gGW+3/xKyH4/sdl25BYPKz4QJToYbTG22B8uyqBKJojORidWspoOQzL/VlrisgU8nz5GtsQ==",
+  "dgSpecHash": "Hr/415R2rgSWvTx87yWcuLxXOwPWW3H3kpPvE8TM0lXyNbxImlgKmJ7BRiJ4jMp1caqSwmL21bxA0UpVOfQbmA==",
   "success": true,
   "projectFilePath": "C:\\Users\\joshua petersen\\source\\repos\\assignments\\assignment 6\\assignment 6\\assignment 6\\assignment 6.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,7 @@
     "C:\\Users\\joshua petersen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\joshua petersen\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+    "C:\\Users\\joshua petersen\\.nuget\\packages\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],
   "logs": []
 }

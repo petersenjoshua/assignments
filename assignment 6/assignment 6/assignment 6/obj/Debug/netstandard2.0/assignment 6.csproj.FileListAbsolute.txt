@@ -11,3 +11,4 @@ C:\Users\joshua petersen\source\repos\assignments\assignment 6\assignment 6\assi
 C:\Users\joshua petersen\source\repos\assignments\assignment 6\assignment 6\assignment 6\obj\Debug\netstandard2.0\assignment 6.dll
 C:\Users\joshua petersen\source\repos\assignments\assignment 6\assignment 6\assignment 6\obj\Debug\netstandard2.0\ref\assignment 6.dll
 C:\Users\joshua petersen\source\repos\assignments\assignment 6\assignment 6\assignment 6\obj\Debug\netstandard2.0\assignment 6.pdb
+C:\Users\joshua petersen\source\repos\assignments\assignment 6\assignment 6\assignment 6\obj\Debug\netstandard2.0\assignment 6.csprojAssemblyReference.cache
