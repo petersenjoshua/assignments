@@ -4,6 +4,15 @@ namespace numConvert
 {
      class Program
     {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter number to convert it to words:");
+            string stringNum = Console.ReadLine();
+            int number = Int32.Parse(stringNum);
+
+            string newNumber = ConvertToWord(number);
+            Console.WriteLine(newNumber);
+        }
         public static string NumberToWords(int number)
         {
             if (number == 0) return "zero";

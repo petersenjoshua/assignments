@@ -2,3 +2,12 @@ C:\Users\joshua petersen\source\repos\assignments\numConvert\numConvert\obj\Debu
 C:\Users\joshua petersen\source\repos\assignments\numConvert\numConvert\obj\Debug\netcoreapp3.1\numConvert.AssemblyInfoInputs.cache
 C:\Users\joshua petersen\source\repos\assignments\numConvert\numConvert\obj\Debug\netcoreapp3.1\numConvert.AssemblyInfo.cs
 C:\Users\joshua petersen\source\repos\assignments\numConvert\numConvert\obj\Debug\netcoreapp3.1\numConvert.csproj.CoreCompileInputs.cache
+C:\Users\joshua petersen\source\repos\assignments\numConvert\numConvert\bin\Debug\netcoreapp3.1\numConvert.exe
+C:\Users\joshua petersen\source\repos\assignments\numConvert\numConvert\bin\Debug\netcoreapp3.1\numConvert.deps.json
+C:\Users\joshua petersen\source\repos\assignments\numConvert\numConvert\bin\Debug\netcoreapp3.1\numConvert.runtimeconfig.json
+C:\Users\joshua petersen\source\repos\assignments\numConvert\numConvert\bin\Debug\netcoreapp3.1\numConvert.runtimeconfig.dev.json
+C:\Users\joshua petersen\source\repos\assignments\numConvert\numConvert\bin\Debug\netcoreapp3.1\numConvert.dll
+C:\Users\joshua petersen\source\repos\assignments\numConvert\numConvert\bin\Debug\netcoreapp3.1\numConvert.pdb
+C:\Users\joshua petersen\source\repos\assignments\numConvert\numConvert\obj\Debug\netcoreapp3.1\numConvert.dll
+C:\Users\joshua petersen\source\repos\assignments\numConvert\numConvert\obj\Debug\netcoreapp3.1\numConvert.pdb
+C:\Users\joshua petersen\source\repos\assignments\numConvert\numConvert\obj\Debug\netcoreapp3.1\numConvert.genruntimeconfig.cache
