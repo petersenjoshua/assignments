@@ -8,11 +8,20 @@ namespace numConvert
         {
             Console.WriteLine("Enter number to convert it to words:");
             string stringNum = Console.ReadLine();
+            {
+
+            }
             int number = Int32.Parse(stringNum);
 
-            string newNumber = ConvertToWord(number);
+            string newNumber = NumberToWord(number);
             Console.WriteLine(newNumber);
         }
+
+        private static string NumberToWord(int number)
+        {
+            throw new NotImplementedException();
+        }
+
         public static string NumberToWords(int number)
         {
             if (number == 0) return "zero";
