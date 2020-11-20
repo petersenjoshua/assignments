@@ -1936,11 +1936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joshua petersen\\source\\repos\\assignments\\assignment 6\\assignment 6\\assignment 6.Android\\assignment 6.Android.csproj",
+      "projectUniqueName": "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\assignment 6\\assignment 6\\assignment 6.Android\\assignment 6.Android.csproj",
       "projectName": "assignment 6.Android",
-      "projectPath": "C:\\Users\\joshua petersen\\source\\repos\\assignments\\assignment 6\\assignment 6\\assignment 6.Android\\assignment 6.Android.csproj",
+      "projectPath": "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\assignment 6\\assignment 6\\assignment 6.Android\\assignment 6.Android.csproj",
       "packagesPath": "C:\\Users\\joshua petersen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joshua petersen\\source\\repos\\assignments\\assignment 6\\assignment 6\\assignment 6.Android\\obj\\",
+      "outputPath": "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\assignment 6\\assignment 6\\assignment 6.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1961,8 +1961,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\joshua petersen\\source\\repos\\assignments\\assignment 6\\assignment 6\\assignment 6\\assignment 6.csproj": {
-              "projectPath": "C:\\Users\\joshua petersen\\source\\repos\\assignments\\assignment 6\\assignment 6\\assignment 6\\assignment 6.csproj"
+            "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\assignment 6\\assignment 6\\assignment 6\\assignment 6.csproj": {
+              "projectPath": "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\assignment 6\\assignment 6\\assignment 6\\assignment 6.csproj"
             }
           }
         }

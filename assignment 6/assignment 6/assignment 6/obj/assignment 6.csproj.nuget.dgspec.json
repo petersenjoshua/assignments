@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joshua petersen\\source\\repos\\assignments\\assignment 6\\assignment 6\\assignment 6\\assignment 6.csproj": {}
+    "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\assignment 6\\assignment 6\\assignment 6\\assignment 6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joshua petersen\\source\\repos\\assignments\\assignment 6\\assignment 6\\assignment 6\\assignment 6.csproj": {
+    "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\assignment 6\\assignment 6\\assignment 6\\assignment 6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joshua petersen\\source\\repos\\assignments\\assignment 6\\assignment 6\\assignment 6\\assignment 6.csproj",
+        "projectUniqueName": "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\assignment 6\\assignment 6\\assignment 6\\assignment 6.csproj",
         "projectName": "assignment 6",
-        "projectPath": "C:\\Users\\joshua petersen\\source\\repos\\assignments\\assignment 6\\assignment 6\\assignment 6\\assignment 6.csproj",
+        "projectPath": "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\assignment 6\\assignment 6\\assignment 6\\assignment 6.csproj",
         "packagesPath": "C:\\Users\\joshua petersen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joshua petersen\\source\\repos\\assignments\\assignment 6\\assignment 6\\assignment 6\\obj\\",
+        "outputPath": "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\assignment 6\\assignment 6\\assignment 6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hr/415R2rgSWvTx87yWcuLxXOwPWW3H3kpPvE8TM0lXyNbxImlgKmJ7BRiJ4jMp1caqSwmL21bxA0UpVOfQbmA==",
+  "dgSpecHash": "3SMaEsSJZsBftHYrap+QlMhhdMieoRa6HURoKzQBrJpfW1dAawQrB/2N+jCraZYlVHMo3UKgYttEwRXRvr+qdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joshua petersen\\source\\repos\\assignments\\assignment 6\\assignment 6\\assignment 6\\assignment 6.csproj",
+  "projectFilePath": "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\assignment 6\\assignment 6\\assignment 6\\assignment 6.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joshua petersen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\joshua petersen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

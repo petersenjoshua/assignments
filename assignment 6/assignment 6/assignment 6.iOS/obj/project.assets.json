@@ -984,11 +984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joshua petersen\\source\\repos\\assignments\\assignment 6\\assignment 6\\assignment 6.iOS\\assignment 6.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\assignment 6\\assignment 6\\assignment 6.iOS\\assignment 6.iOS.csproj",
       "projectName": "assignment 6.iOS",
-      "projectPath": "C:\\Users\\joshua petersen\\source\\repos\\assignments\\assignment 6\\assignment 6\\assignment 6.iOS\\assignment 6.iOS.csproj",
+      "projectPath": "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\assignment 6\\assignment 6\\assignment 6.iOS\\assignment 6.iOS.csproj",
       "packagesPath": "C:\\Users\\joshua petersen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joshua petersen\\source\\repos\\assignments\\assignment 6\\assignment 6\\assignment 6.iOS\\obj\\",
+      "outputPath": "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\assignment 6\\assignment 6\\assignment 6.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1009,8 +1009,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\joshua petersen\\source\\repos\\assignments\\assignment 6\\assignment 6\\assignment 6\\assignment 6.csproj": {
-              "projectPath": "C:\\Users\\joshua petersen\\source\\repos\\assignments\\assignment 6\\assignment 6\\assignment 6\\assignment 6.csproj"
+            "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\assignment 6\\assignment 6\\assignment 6\\assignment 6.csproj": {
+              "projectPath": "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\assignment 6\\assignment 6\\assignment 6\\assignment 6.csproj"
             }
           }
         }

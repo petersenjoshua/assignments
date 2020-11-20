@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Assignment7.MainPage">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="" Order="Primary"  Priority="0" />
+        <ToolbarItem Text="Cash" Order="Secondary"  Priority="0"/>
+        <ToolbarItem Text="Deposit" Order="Secondary"  Priority="1"/>
+       
+    </ContentPage.ToolbarItems>
+
+   
+        <StackLayout>
+        <Frame BackgroundColor="DodgerBlue" CornerRadius="0" >
+            <StackLayout>
+                <Label Text="hello" HorizontalTextAlignment="Center" HeightRequest="94" TextColor="White" FontSize="90"/>
+                <Label Text="Joshua" HorizontalTextAlignment="Center" FontAttributes = "Bold" TextColor="White" FontSize="20"/>
+            </StackLayout>
+        </Frame>
+        
+           
+        <Frame  BackgroundColor="White" Padding="5" CornerRadius="0">
+            <Image Source="remotePin.png" Aspect="AspectFit"/>
+            <Entry Placeholder="Remote Pin" HorizontalTextAlignment="Start" TextColor="Black" FontSize="15" />
+        </Frame>
+            
+        <Button Text="Sign In" TextColor="White" BackgroundColor="DodgerBlue" CornerRadius="10" FontAttributes = "Bold" HorizontalOptions="FillAndExpand" />
+        <Button x:Name="button" Text="Buy prepaid mobile" TextColor = "Black" BackgroundColor="White" BorderColor = "Gray" BorderWidth="1" CornerRadius="10" FontAttributes = "Bold" ImageSource="mobile.png" />
+        <Button x:Name="button2" Text="Buy electricity" TextColor = "Black" BackgroundColor="White" BorderColor = "Gray" BorderWidth="1" CornerRadius="10" FontAttributes = "Bold" ImageSource="electricity.png"  />
+        <Button x:Name="button3" Text="Pay beneficiary" TextColor = "Black" BackgroundColor="White" BorderColor = "Gray" BorderWidth="1" CornerRadius="10" FontAttributes = "Bold" ImageSource="beneficiary.png"  />
+        <Button x:Name="button4" Text="Transfer money" TextColor = "Black" BackgroundColor="White" BorderColor = "Gray" BorderWidth="1" CornerRadius="10" FontAttributes = "Bold" ImageSource="transfer.png"/>
+        <Button x:Name="button5" Text="Track money" TextColor = "Black" BackgroundColor="White" BorderColor = "Gray" BorderWidth="1" CornerRadius="10" FontAttributes = "Bold" ImageSource="trackmoney.png" />
+           
+       
+    </StackLayout>
+   
+
+</ContentPage>
