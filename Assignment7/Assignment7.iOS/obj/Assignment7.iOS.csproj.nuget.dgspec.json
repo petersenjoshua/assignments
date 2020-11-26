@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joshua petersen\\source\\repos\\Assignment7\\Assignment7.iOS\\Assignment7.iOS.csproj": {}
+    "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\Assignment7\\Assignment7.iOS\\Assignment7.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joshua petersen\\source\\repos\\Assignment7\\Assignment7.iOS\\Assignment7.iOS.csproj": {
+    "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\Assignment7\\Assignment7.iOS\\Assignment7.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joshua petersen\\source\\repos\\Assignment7\\Assignment7.iOS\\Assignment7.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\Assignment7\\Assignment7.iOS\\Assignment7.iOS.csproj",
         "projectName": "Assignment7.iOS",
-        "projectPath": "C:\\Users\\joshua petersen\\source\\repos\\Assignment7\\Assignment7.iOS\\Assignment7.iOS.csproj",
+        "projectPath": "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\Assignment7\\Assignment7.iOS\\Assignment7.iOS.csproj",
         "packagesPath": "C:\\Users\\joshua petersen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joshua petersen\\source\\repos\\Assignment7\\Assignment7.iOS\\obj\\",
+        "outputPath": "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\Assignment7\\Assignment7.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\joshua petersen\\source\\repos\\Assignment7\\Assignment7\\Assignment7.csproj": {
-                "projectPath": "C:\\Users\\joshua petersen\\source\\repos\\Assignment7\\Assignment7\\Assignment7.csproj"
+              "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\Assignment7\\Assignment7\\Assignment7.csproj": {
+                "projectPath": "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\Assignment7\\Assignment7\\Assignment7.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\joshua petersen\\source\\repos\\Assignment7\\Assignment7\\Assignment7.csproj": {
+    "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\Assignment7\\Assignment7\\Assignment7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joshua petersen\\source\\repos\\Assignment7\\Assignment7\\Assignment7.csproj",
+        "projectUniqueName": "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\Assignment7\\Assignment7\\Assignment7.csproj",
         "projectName": "Assignment7",
-        "projectPath": "C:\\Users\\joshua petersen\\source\\repos\\Assignment7\\Assignment7\\Assignment7.csproj",
+        "projectPath": "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\Assignment7\\Assignment7\\Assignment7.csproj",
         "packagesPath": "C:\\Users\\joshua petersen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joshua petersen\\source\\repos\\Assignment7\\Assignment7\\obj\\",
+        "outputPath": "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\Assignment7\\Assignment7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

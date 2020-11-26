@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AObkU3jwKPBC5V2ekREmTvmaMxmQZ1HPzL+PXmyXm18y9RjC/t9Qp8bGzbUfp5Vj1EeF0qKkACvYF85Ede3p8A==",
+  "dgSpecHash": "UwceKhhOh3PYvXatU+OrXIKTraw2DW6fVIC90YJaOK0zmwNeacBZPApQ48EZJkOHNXicp4nnX1XqfD5cyxULyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joshua petersen\\source\\repos\\Assignment7\\Assignment7.iOS\\Assignment7.iOS.csproj",
+  "projectFilePath": "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\Assignment7\\Assignment7.iOS\\Assignment7.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Users\\joshua petersen\\.nuget\\packages\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wGxc8ieXHOHH7j4Ojn+AEztIjVWDjXsvoZwbNWoQrUSlOg7VE6XAWJbvkE+clDivBo7aIskm1M6linlwc4R/mg==",
+  "dgSpecHash": "cLMnxWYg7+nqJUzLpwJMuzfQoiadv66qFT6i66pz0bZhDsj+rGCnTuG+tsoCOBz7WcGjy3RgbT+WghQiWMrL/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joshua petersen\\source\\repos\\Assignment7\\Assignment7.Android\\Assignment7.Android.csproj",
+  "projectFilePath": "C:\\Users\\joshua petersen\\Source\\Repos\\assignments\\Assignment7\\Assignment7.Android\\Assignment7.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
